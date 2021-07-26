@@ -1,2 +1,2 @@
 # CommandPattern
-От AbstractCommand наследуются тря класса для выполнения кейсов
+От AbstractCommand наследуются три класса для выполнения кейсов
